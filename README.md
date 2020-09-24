@@ -15,13 +15,14 @@
 <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/minoveaz/github-perfil-readme-asombrosos?color=2b9348"></a>
 <a href="https://github.com/minoveaz/github-perfil-readme-asombrosos/blob/master/LICENSE"><img src="https://img.shields.io/github/license/minoveaz/github-perfil-readme-asombrosos?color=2b9348" alt="License Badge"/></a>
 
-
 </div>
 
 ## Contribuye
 
 Todas las contribuciones son bienvenidas!
 Lee la guia para Contribuir en este Repo [Guia de contribución](contributing.md).
+
+Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
 
 ### Contenido:
@@ -51,7 +52,7 @@ Lee la guia para Contribuir en este Repo [Guia de contribución](contributing.md
 ## Categorias
 
 #### Github Actions 🤖
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
+- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt){target="_blank"}
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
