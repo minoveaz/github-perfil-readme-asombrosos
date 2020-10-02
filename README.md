@@ -24,7 +24,6 @@ Lee la guia para Contribuir en este Repo [Guia de contribución](contributing.md
 
 Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-
 ### Contenido:
   - [Categorias](#categorias)
       - [Github Actions 🤖](#github-actions-)
@@ -50,69 +49,84 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 
 ## Categorias
 
-#### Github Actions 🤖
+### Github Actions 🤖
+
 - [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
-#### Tipo Juego 🚀
+### Tipo Juego 🚀
+
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 
+### Tipo Codigo 👨🏽‍💻
 
-#### Tipo Codigo 👨🏽‍💻
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 
-#### Dinamico  Realtime 💫
+### Dinamico  Realtime 💫
+
 - [Johnny Villegas](https://github.com/C9-LinkRs/C9-LinkRs)
 - [andyruwruw](https://github.com/andyruwruw/andyruwruw)
 
-#### Un poco de todo 😃
+### Un poco de todo 😃
+
 - [Miller Camilo Vega](https://github.com/minoveaz/minoveaz)
 
 #### Descriptivo 🗒
+
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
 
 #### Innovador 🤗
+
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
 
 #### Typing.. Mode 🎰
+
 - [Mathieu Ledru](https://github.com/matyo91/matyo91)
 
 #### Anime 👾
+
 - [Ing](https://github.com/innng/innng)
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 
 #### Minimalista ✨
+
 - [Caneco](https://github.com/caneco/)
 - [Gift Egwuenu](https://github.com/lauragift21/lauragift21)
 
 #### GIFS 👻
+
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 
 #### Solo Imagenes 🎭
+
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [偏右](https://github.com/afc163/afc163)
 
 #### Badges 🎫
+
 - [Anirudh Emmadi](https://github.com/aemmadi/aemmadi)
 
-
 #### Fancy Fonts 🖋
+
 - [xiaoluoboding](https://github.com/xiaoluoboding/xiaoluoboding)
 
 #### Iconos 🎯
+
 - [Yuan Tang](https://github.com/terrytangyuan/terrytangyuan)
 
 #### Retro 😎
+
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
 
 ## Herramientas
+
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
 - [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
@@ -140,11 +154,12 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 - [Profile Readme Stats](https://github.com/marketplace/actions/profile-readme-stats) - [Github Action] Showcase your github stats on your profile README.md
 - [README Jokes](https://github.com/ABSphreak/readme-jokes) - Random dev jokes in your GitHub README.
 
-## Articulos
+## Artículos
+
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
 
-
 ## Tutoriales
+
 - ["CREA tu Github README Profile paso a paso y añade GitHub Actions 🐙😺"](https://youtu.be/1eEnboVooiY) - *midudev*
 - ["Curso Profesional de Git y GitHub - ¿Qué es y cómo crear un Readme.md?"](https://www.youtube.com/watch?v=yNs1CJK1aJs) - *dfbastidas*
 
