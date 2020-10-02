@@ -48,11 +48,10 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
   - [Video Tutoriales](#tutoriales)
   - [Licencia](#Licencia)
 
-
 ## Categorias
 
 #### Github Actions 🤖
-- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt){target="_blank"}
+- [Thomas Guibert](https://github.com/thmsgbrt/thmsgbrt)
 - [Brian Douglas](https://github.com/bdougie/bdougie)
 - [Shawn Wang](https://github.com/sw-yx/sw-yx)
 
@@ -113,7 +112,7 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
 
-## Herramientas 
+## Herramientas
 - [Visitor Badge](https://visitor-badge.glitch.me/#docs) - Count visitors for your README.md, Issues, PRs in GitHub
 - [1990s style Visitor Counter](https://twitter.com/ryanlanciaux/status/1283755637126705152) - Add a 1990s style visitor counter with one line of markdown.
 - [Vists Count](https://pufler.dev/git-badges/) - Count visitors for README.md that can be used with shields.io
@@ -152,4 +151,3 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 ## Licencia
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
