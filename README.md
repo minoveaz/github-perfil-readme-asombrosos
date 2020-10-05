@@ -74,6 +74,7 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 #### Descriptivo 🗒
 - [Filip Troníček](https://github.com/filiptronicek/filiptronicek)
 - [Garima Singh](https://github.com/garimasingh128/garimasingh128)
+- [Pedro Acevedo](https://github.com/PedroAcevedo/PedroAcevedo)
 
 #### Innovador 🤗
 - [Nate Moore](https://github.com/natemoo-re/natemoo-re)
