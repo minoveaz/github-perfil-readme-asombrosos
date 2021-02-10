@@ -58,6 +58,7 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 ### Tipo Juego 🚀
 
 - [Tim Burgan](https://github.com/timburgan/timburgan)
+- [Evaristo Cuesta](https://github.com/evaristocuesta/evaristocuesta)
 
 ### Tipo Codigo 👨🏽‍💻
 
