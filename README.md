@@ -59,6 +59,7 @@ Inspirado en [abhisheknaiidu](https://github.com/abhisheknaiidu/awesome-github-p
 
 - [Tim Burgan](https://github.com/timburgan/timburgan)
 - [Evaristo Cuesta](https://github.com/evaristocuesta/evaristocuesta)
+- [Pao Cruz](https://github.com/Mr-Crux-Ansata/Mr-Crux-Ansata)
 
 ### Tipo Codigo 👨🏽‍💻
 
